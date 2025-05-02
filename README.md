@@ -16,7 +16,7 @@ This project provides two FastAPI-based APIs for generating **medical reports in
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/AhmedSofi/medical_report_with_gemini_api.git
+git clone https://github.com/AhmedSofi/medical_report_generator_with_gemini_api.git
 cd medical-report-generator
 pip install -r requirements.txt
 ```
