@@ -118,11 +118,6 @@ Get your API key from [Google AI Studio](https://makersuite.google.com/).
 
 ---
 
-## 📄 License
-
-MIT License. Feel free to use, modify, and distribute.
-
----
 
 ## 🤝 Contributing
 
@@ -130,6 +125,4 @@ Pull requests are welcome! If you have suggestions or want to improve the format
 
 ---
 
-## 👋 Contact
 
-Built by [Your Name] — Open for collaboration!
