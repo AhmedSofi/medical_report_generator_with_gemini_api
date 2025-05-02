@@ -83,4 +83,4 @@ async def generate_pdf(question: list = Query(...), answer: list = Query(...)):
 
 @app.get("/")
 async def read_root():
-    return {"Hello": "sofi770"}
+    return {"Hello": "sofi"}
